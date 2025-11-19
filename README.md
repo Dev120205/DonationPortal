@@ -1,5 +1,3 @@
-# Team-16
-
 # 🤝 Donation Matching Portal
 
 A platform that connects **donors** and **recipients** by matching donations (items, funds, or services) with real-time needs.
